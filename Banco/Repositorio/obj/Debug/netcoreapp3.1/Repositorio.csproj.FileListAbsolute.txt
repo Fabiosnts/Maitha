@@ -1,0 +1,15 @@
+C:\Users\zjt0720\Documents\LocalRepo\Maitha\Banco\Repositorio\bin\Debug\netcoreapp3.1\Repositorio.deps.json
+C:\Users\zjt0720\Documents\LocalRepo\Maitha\Banco\Repositorio\bin\Debug\netcoreapp3.1\Repositorio.runtimeconfig.json
+C:\Users\zjt0720\Documents\LocalRepo\Maitha\Banco\Repositorio\bin\Debug\netcoreapp3.1\Repositorio.runtimeconfig.dev.json
+C:\Users\zjt0720\Documents\LocalRepo\Maitha\Banco\Repositorio\bin\Debug\netcoreapp3.1\Repositorio.dll
+C:\Users\zjt0720\Documents\LocalRepo\Maitha\Banco\Repositorio\bin\Debug\netcoreapp3.1\Repositorio.pdb
+C:\Users\zjt0720\Documents\LocalRepo\Maitha\Banco\Repositorio\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\zjt0720\Documents\LocalRepo\Maitha\Banco\Repositorio\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\zjt0720\Documents\LocalRepo\Maitha\Banco\Repositorio\obj\Debug\netcoreapp3.1\Repositorio.csproj.AssemblyReference.cache
+C:\Users\zjt0720\Documents\LocalRepo\Maitha\Banco\Repositorio\obj\Debug\netcoreapp3.1\Repositorio.AssemblyInfoInputs.cache
+C:\Users\zjt0720\Documents\LocalRepo\Maitha\Banco\Repositorio\obj\Debug\netcoreapp3.1\Repositorio.AssemblyInfo.cs
+C:\Users\zjt0720\Documents\LocalRepo\Maitha\Banco\Repositorio\obj\Debug\netcoreapp3.1\Repositorio.csproj.CoreCompileInputs.cache
+C:\Users\zjt0720\Documents\LocalRepo\Maitha\Banco\Repositorio\obj\Debug\netcoreapp3.1\Repositorio.csproj.CopyComplete
+C:\Users\zjt0720\Documents\LocalRepo\Maitha\Banco\Repositorio\obj\Debug\netcoreapp3.1\Repositorio.dll
+C:\Users\zjt0720\Documents\LocalRepo\Maitha\Banco\Repositorio\obj\Debug\netcoreapp3.1\Repositorio.pdb
+C:\Users\zjt0720\Documents\LocalRepo\Maitha\Banco\Repositorio\obj\Debug\netcoreapp3.1\Repositorio.genruntimeconfig.cache

@@ -1,0 +1,8 @@
+C:\Users\zjt0720\Documents\LocalRepo\Maitha\Banco\Dominio\bin\Debug\netcoreapp3.1\Dominio.deps.json
+C:\Users\zjt0720\Documents\LocalRepo\Maitha\Banco\Dominio\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\zjt0720\Documents\LocalRepo\Maitha\Banco\Dominio\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\zjt0720\Documents\LocalRepo\Maitha\Banco\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfoInputs.cache
+C:\Users\zjt0720\Documents\LocalRepo\Maitha\Banco\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfo.cs
+C:\Users\zjt0720\Documents\LocalRepo\Maitha\Banco\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\zjt0720\Documents\LocalRepo\Maitha\Banco\Dominio\obj\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\zjt0720\Documents\LocalRepo\Maitha\Banco\Dominio\obj\Debug\netcoreapp3.1\Dominio.pdb
